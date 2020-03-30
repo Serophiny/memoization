@@ -1,5 +1,5 @@
-# memoization
-Memoization examples in AutoIT
+# Memoization
+AutoIT
 
 
 Memoization for different functions, examples given:
