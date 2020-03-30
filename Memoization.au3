@@ -51,7 +51,7 @@ Func factorial($n)	; Normal function
 	  Return 1
    EndIf
 
-   Return Faculty($n - 1) * $n
+   Return factorial($n - 1) * $n
 EndFunc
 
 Func factorial_($n)	; Memoizationed function
